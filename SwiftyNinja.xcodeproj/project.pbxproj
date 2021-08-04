@@ -26,6 +26,7 @@
 		D6D0A9AE26B921BA0092733C /* swoosh1.caf in Resources */ = {isa = PBXBuildFile; fileRef = D6D0A99D26B921BA0092733C /* swoosh1.caf */; };
 		D6D0A9AF26B921BA0092733C /* swoosh2.caf in Resources */ = {isa = PBXBuildFile; fileRef = D6D0A99E26B921BA0092733C /* swoosh2.caf */; };
 		D6D0A9B526B931D40092733C /* ForceBomb.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6D0A9B426B931D40092733C /* ForceBomb.swift */; };
+		D6D0A9B926BADE050092733C /* SequenceType.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6D0A9B826BADE050092733C /* SequenceType.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -50,6 +51,7 @@
 		D6D0A99D26B921BA0092733C /* swoosh1.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = swoosh1.caf; sourceTree = "<group>"; };
 		D6D0A99E26B921BA0092733C /* swoosh2.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = swoosh2.caf; sourceTree = "<group>"; };
 		D6D0A9B426B931D40092733C /* ForceBomb.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForceBomb.swift; sourceTree = "<group>"; };
+		D6D0A9B826BADE050092733C /* SequenceType.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SequenceType.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +88,7 @@
 				D6D0A97626B8085A0092733C /* GameScene.sks */,
 				D6D0A97A26B8085A0092733C /* GameScene.swift */,
 				D6D0A9B426B931D40092733C /* ForceBomb.swift */,
+				D6D0A9B826BADE050092733C /* SequenceType.swift */,
 				D6D0A97C26B8085A0092733C /* GameViewController.swift */,
 				D6D0A97E26B8085A0092733C /* Main.storyboard */,
 				D6D0A98126B8085A0092733C /* Assets.xcassets */,
@@ -196,6 +199,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D6D0A9B926BADE050092733C /* SequenceType.swift in Sources */,
 				D6D0A97B26B8085A0092733C /* GameScene.swift in Sources */,
 				D6D0A9B526B931D40092733C /* ForceBomb.swift in Sources */,
 				D6D0A97D26B8085A0092733C /* GameViewController.swift in Sources */,
